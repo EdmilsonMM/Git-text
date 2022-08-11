@@ -41,3 +41,13 @@
     color: white;
     text-align: center;
 }
+
+.btn_saludar{
+    background: rgb(59, 168, 59);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
